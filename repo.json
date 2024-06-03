@@ -1,0 +1,8 @@
+{
+    "name": "Mostafa's repository",
+    "description": "Mostafa's repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/PyCoder158/a/main/plugins.json"
+    ]
+}

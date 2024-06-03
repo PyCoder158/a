@@ -20,15 +20,15 @@
         "name": "StremioX"
     },
     {
-        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png?ex=65ec2a0a&is=65d9b50a&hm=f1e0b0165e71101e5440b47592d9e15727a6c00cdeb3512108067bfbdbef1af7&",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uncutmaza.cc&sz=%size%",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 275303,
+        "repositoryUrl": "https://github.com/Rowdy-Avocado/Rowdycado-Extensions",
+        "fileSize": 307174,
         "status": 1,
         "language": "en",
         "authors": [
-            "Hexated",
-            "Sora"
+            "KillerDogeEmpire",
+            "Code"
         ],
         "tvTypes": [
             "AsianDrama",
@@ -36,10 +36,10 @@
             "Anime",
             "Movie"
         ],
-        "version": 228,
-        "internalName": "SoraStream",
+        "version": 6,
+        "internalName": "CodeStream",
         "description": "#1 best extention based on MultiAPI",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/SoraStream.cs3",
-        "name": "SoraStream"
+        "url": "https://raw.githubusercontent.com/Rowdy-Avocado/Rowdycado-Extensions/builds/CodeStream.cs3",
+        "name": "CodeStream"
     }
 ]
